@@ -4,4 +4,8 @@
     <migrationTask xmi:id="_Yr-j0Dx2EfG9QJFx3aOOBg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Yqlcsjx2EfG9QJFx3aOOBg" login="ninone3771@trial.kcv7hfo461g4htr.us.qlikcloud.com" firstName="jakob m" lastName="jakob m" type="DQ"/>
+  <TalendProperties:User xmi:id="_7Hex0EIgEfG-HqDgmajotg" login="picekot281@trial.sbgystzhv7me2fz.us.qlikcloud.com" firstName="picekot m" lastName="picekot m" type="DQ"/>
+  <TalendProperties:User xmi:id="_7Hex0UIgEfG-HqDgmajotg" login="picekot281@trial.sbgystzhv7me2fz.us.qlikcloud.com" firstName="picekot m" lastName="picekot m" type="DQ"/>
+  <TalendProperties:User xmi:id="_ktKXYFTYEfGvFY_cSXrbVQ" login="vonelav786@trial.4e8spx7yjdkmffx.us.qlikcloud.com" firstName="vonelav786@anawebs.com v" lastName="vonelav786@anawebs.com v" type="DQ"/>
+  <TalendProperties:User xmi:id="_ktKXYVTYEfGvFY_cSXrbVQ" login="vonelav786@trial.4e8spx7yjdkmffx.us.qlikcloud.com" firstName="vonelav786@anawebs.com v" lastName="vonelav786@anawebs.com v" type="DQ"/>
 </xmi:XMI>
