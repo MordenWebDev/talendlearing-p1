@@ -1,5 +1,20 @@
 [ {
   "baseItem" : {
+    "id" : "_mV_roFg0EfGqRotiYOZP0A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TALEND_CLOUD:_-TmZcFgiEfGqRotiYOZP0A",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "TALEND_CLOUD:_RrLx4DyHEfGQhK0qzdLTFg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_znMbED5NEfGBabXlT1QHRA",
     "version" : "0.1",
     "type" : "job"
