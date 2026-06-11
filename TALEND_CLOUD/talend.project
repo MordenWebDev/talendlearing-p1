@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_YqlcsTx2EfG9QJFx3aOOBg" label="talend-cloud" language="java" technicalLabel="TALEND_CLOUD" author="_Yqlcsjx2EfG9QJFx3aOOBg" productVersion="Qlik Talend Cloud Enterprise Edition-8.0.1.20260319_1057-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/MordenWebDev/talendlearing-p1.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_YqlcsTx2EfG9QJFx3aOOBg" label="talend-cloud" language="java" technicalLabel="TALEND_CLOUD" author="_Yqlcsjx2EfG9QJFx3aOOBg" productVersion="Qlik Talend Cloud Enterprise Edition-8.0.1.20260521_1039-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/MordenWebDev/talendlearing-p1.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_Yr-j0Dx2EfG9QJFx3aOOBg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Yqlcsjx2EfG9QJFx3aOOBg" login="ninone3771@trial.kcv7hfo461g4htr.us.qlikcloud.com" firstName="jakob m" lastName="jakob m" type="DQ"/>
@@ -10,4 +10,6 @@
   <TalendProperties:User xmi:id="_ktKXYVTYEfGvFY_cSXrbVQ" login="vonelav786@trial.4e8spx7yjdkmffx.us.qlikcloud.com" firstName="vonelav786@anawebs.com v" lastName="vonelav786@anawebs.com v" type="DQ"/>
   <TalendProperties:User xmi:id="_H52WMFjMEfGCVvoQ6KQyxA" login="xecejem544@trial.8rnwckr117muc95.us.qlikcloud.com" firstName="matt" lastName="park" type="DQ"/>
   <TalendProperties:User xmi:id="_H52WMVjMEfGCVvoQ6KQyxA" login="xecejem544@trial.8rnwckr117muc95.us.qlikcloud.com" firstName="matt" lastName="park" type="DQ"/>
+  <TalendProperties:User xmi:id="_vZHusGPJEfGnvIYR-zr20g" login="cisegi1400@trial.xr2uomle94gueyx.us.qlikcloud.com" firstName="mark" lastName="R" type="DQ"/>
+  <TalendProperties:User xmi:id="_vZHusWPJEfGnvIYR-zr20g" login="cisegi1400@trial.xr2uomle94gueyx.us.qlikcloud.com" firstName="mark" lastName="R" type="DQ"/>
 </xmi:XMI>

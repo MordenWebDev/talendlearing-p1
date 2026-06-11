@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_rHJXoGPTEfGnvIYR-zr20g" name="MySQL_RetailDB" id="_QFwN4GPTEfGnvIYR-zr20g" label="MySQL_RetailDB" dataPackage="_rIW4kGPTEfGnvIYR-zr20g" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://127.0.0.1:3307/retail_db?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="3307" Username="root" Password="enc:system.encryption.key.v1:aA/NU6ELzaJTTvNKMApAUQ0k/Nr/34bSxXo0juC53mtMUxQ=" ServerName="127.0.0.1" DatasourceName="" FileFieldName="" SID="retail_db" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+    <taggedValue xmi:id="_rHJ-sGPTEfGnvIYR-zr20g" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_rHsxQGPTEfGnvIYR-zr20g" tag="package filter" value=""/>
+    <taggedValue xmi:id="_rH2iQGPTEfGnvIYR-zr20g" tag="Status" value=""/>
+    <taggedValue xmi:id="_rH2iQWPTEfGnvIYR-zr20g" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_rH2iQmPTEfGnvIYR-zr20g" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_rH2iQ2PTEfGnvIYR-zr20g" tag="Description" value=""/>
+    <taggedValue xmi:id="_rH2iRGPTEfGnvIYR-zr20g" tag="Author" value=""/>
+    <taggedValue xmi:id="_rH2iRWPTEfGnvIYR-zr20g" tag="otherParameter"/>
+    <taggedValue xmi:id="_rICvgGPTEfGnvIYR-zr20g" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_rICvgWPTEfGnvIYR-zr20g" tag="DB ProductVersion" value="8.0.46"/>
+    <taggedValue xmi:id="_rICvgmPTEfGnvIYR-zr20g" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_rHJ-sWPTEfGnvIYR-zr20g" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_rIW4kGPTEfGnvIYR-zr20g" name="retail_db" dataManager="_rHJXoGPTEfGnvIYR-zr20g"/>
+</xmi:XMI>
